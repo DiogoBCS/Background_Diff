@@ -1,0 +1,3 @@
+/home/didi/BDS/Background_Diff/CMakeFiles/edit_cache.dir
+/home/didi/BDS/Background_Diff/CMakeFiles/rebuild_cache.dir
+/home/didi/BDS/Background_Diff/CMakeFiles/detector.dir
